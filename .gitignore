@@ -352,4 +352,9 @@ ASALocalRun/
 
 # Ignore the Models Builder models out of date flag
 **/App_Data/Models/ood.flag
+<<<<<<< HEAD
+=======
+/BCGTest/Web.config
+>>>>>>> a14d5fa5d127a318f2d541736d1d4c167fdf3df0
 /BCGTest/App_Data/Models
+/BCGTest/Web.config
