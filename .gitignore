@@ -352,3 +352,4 @@ ASALocalRun/
 
 # Ignore the Models Builder models out of date flag
 **/App_Data/Models/ood.flag
+/BCGTest/App_Data/Models
